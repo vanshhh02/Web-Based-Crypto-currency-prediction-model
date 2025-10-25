@@ -275,6 +275,4 @@ For support and questions:
 - Check the troubleshooting section
 - Review the debug pages for error details
 
----
 
-**Built with ❤️ for the crypto community**
